@@ -1,9 +1,9 @@
-# Hi, I'm Armaan 👋
+Hey, I’m Armaan 👋
 
-I'm a **Fullstack Web Developer** specializing in the **MERN stack** and **Next.js**. Lately, I’ve been diving into **Web3** and **Blockchain** to explore decentralized technologies.
+I’m a Fullstack Web Developer who likes spending time with Next.js. Lately, I’m diving into Web3 and Blockchain—just seeing what’s all the hype about.
 
-- 🌱 Currently learning **Solidity** and building dApps.
-- 🔭 Always excited to work on impactful projects.
-- 📬 Check out my [Twitter](https://x.com/armaan23____).
+I enjoy building, breaking things, and occasionally getting stuff to actually work.
+Always up for a new challenge or something fun to learn.
 
-Let’s connect and build something awesome! 🚀
+Check me out: Armaan.portoflio:)(https://armaan-blue.vercel.app/)
+
