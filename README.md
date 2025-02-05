@@ -5,5 +5,6 @@ Iâ€™m a Fullstack Web Developer who likes spending time with Next.js. Lately, Iâ
 I enjoy building, breaking things, and occasionally getting stuff to actually work.
 Always up for a new challenge or something fun to learn.
 
-Check me out: Armaan.portoflio:)(https://armaan-blue.vercel.app/)
+Check me out: <a href="https://armaan-blue.vercel.app/" target="_blank">My Portfolio</a>
+
 
